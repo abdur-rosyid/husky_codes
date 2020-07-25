@@ -1,5 +1,5 @@
 # husky_codes
-Packages to control and navigate the Husky UGV
+Packages to control and navigate the Husky UGV from Clearpath
 
 - simple_controller: simple package to move UGV to a target in a straight motion WITHOUT considering obstacle avoidance.
 - husky_navigation: customized package to navigate Husky using move_base and amcl.
